@@ -110,7 +110,7 @@
             bindings = <
 &kp LC(A)       &kp LC(X)     &kp LC(C)    &kp LC(V)  &kp LC(F)          &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp BACKSLASH
 &kp TAB         &kp LEFT_ALT  &kp LS(TAB)  &mkp MB1   &mkp MB2           &kp CARET         &kp DOLLAR         &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp TILDE
-&kp LEFT_SHIFT  &trans        &trans       &trans     &mkp MB3   &trans  &kp AMPERSAND     &kp PERCENT        &kp LESS_THAN         &kp GREATER_THAN       &kp EXCL
+&kp LEFT_SHIFT  &trans        &trans       &trans     &mkp MB3   &trans  &kp AMPERSAND     &kp PERCENT        &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp EXCL
 &kp LCTRL       &trans        &trans       &trans     &trans     &trans  &kp AT            &trans             &kp COLON             &trans                 &trans
             >;
         };
@@ -120,7 +120,7 @@
             bindings = <
 &kp LG(A)       &kp LG(X)     &kp LG(C)    &kp LG(V)  &kp LG(F)             &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp BACKSLASH
 &kp TAB         &kp LEFT_GUI  &kp LS(TAB)  &mkp MB1   &mkp MB2              &kp CARET         &kp DOLLAR         &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp TILDE
-&kp LEFT_SHIFT  &trans        &trans       &trans     &mkp MB3   &kp LG(R)  &kp AMPERSAND     &kp PERCENT        &kp LESS_THAN         &kp GREATER_THAN       &kp EXCL
+&kp LEFT_SHIFT  &trans        &trans       &trans     &mkp MB3   &kp LG(R)  &kp AMPERSAND     &kp PERCENT        &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp EXCL
 &kp LCTRL       &trans        &trans       &trans     &trans     &trans     &kp AT            &trans             &kp COLON             &trans                 &trans
             >;
         };
